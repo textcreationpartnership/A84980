@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall papers from His Excellency Sr. Thomas Fairfax, and the armie under his command, delivered to the Commissioners of Parliament and city at Alisbury [sic], July 23. 1647. Occasioned by a late petition and engagement of some citizens, commanders, officers, and souldiers of the trained bands and auxiliaries &amp;c. Being the last and most d[e]sperate designe against the kingdome and army. With a copy of the engagement. Also, a proclamation from his Excellency Sir Thomas Fairfax, against the entertaining of cavaliers in the armie. By the appointment of his Excellency Sr. Thomas Fairfax and his Councell of Warre. Signed Io. Rushworth Secr.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84980</idno>
+            <idno type="STC">Wing F234</idno>
+            <idno type="STC">Thomason E400_4</idno>
+            <idno type="STC">ESTC R201739</idno>
+            <idno type="EEBO-CITATION">99862238</idno>
+            <idno type="PROQUEST">99862238</idno>
+            <idno type="VID">160396</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84980)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160396)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E400[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall papers from His Excellency Sr. Thomas Fairfax, and the armie under his command, delivered to the Commissioners of Parliament and city at Alisbury [sic], July 23. 1647. Occasioned by a late petition and engagement of some citizens, commanders, officers, and souldiers of the trained bands and auxiliaries &amp;c. Being the last and most d[e]sperate designe against the kingdome and army. With a copy of the engagement. Also, a proclamation from his Excellency Sir Thomas Fairfax, against the entertaining of cavaliers in the armie. By the appointment of his Excellency Sr. Thomas Fairfax and his Councell of Warre. Signed Io. Rushworth Secr.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Whittington, at the Blew Anchor in Cornhill, neare the Royall Exchange,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In the title the first "e" in "desperate" has failed to print.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Originally published in Oxford as: A declaration of the proceedings of the Army.</note>
+                  <note>Annotation on Thomason copy: July 26.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160396:1" rendition="simple:additions"/>
+            <p>SEVERALL PAPERS From His Excellency Sr. Thomas Fairfax, AND The ARMIE under his Command, de<g ref="char:EOLhyphen"/>livered to the Commiſſioners of Parlia<g ref="char:EOLhyphen"/>ment and City at <hi>Alisbury, July</hi> 23. 1647.</p>
+            <p>
+               <hi>OCCASIONED</hi> By a late Petition and Engagement of ſome Citizens, Commanders, Officers, and Souldiers of the Trained Bands and Auxiliaries &amp;c.</p>
+            <p>
+               <hi>Being the laſt and moſt deſperate Deſigne againſt the Kingdome and Army. With a Copy of the Engagement.</hi>
+            </p>
+            <p>ALSO, A <hi>Proclamation</hi> from his Excellency Sir <hi>Thomas Fairfax,</hi> a<g ref="char:EOLhyphen"/>gainſt the entertaining of Cavaliers in the ARMIE.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>By the appointment of his Excellency Sr. THOMAS FAIRFAX and his Councell of Warre. </p>
+                  <closer>
+                     <signed>Signed IO. RUSHWORTH <hi>Secr.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Whittington,</hi> at the Blew Anchor in Cornhill, neare the Royall Exchange, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160396:2"/>
+            <pb facs="tcp:160396:2"/>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>VVE received this incloſed paper the laſt night, from the hands of a very well affected Citizen, it was delivered him by an Offi<g ref="char:EOLhyphen"/>cer of the City Militia who being invited to meet ſome Citizens at Skin<g ref="char:EOLhyphen"/>ners hall upon Wedneſday laſt, with divers others to ſigne the ſame, and offering to diſpute againſt the matter of it, to ſhew how dangerous and illegall it was, was ſilenc't and told that it was not to be diſputed, but to be ſigned and joyned in, there being diverſe Cittizens and others at the ſame place for that purpoſe, which when he underſtood, he tooke this printed Copy away with him,</p>
+            <p>By the contents of which when you read it you will eaſily perceive what it tends to, and how deſperate and dangerous it is to the hazzard of the whole Kingdom, and to fruſtrate all thoſe indeavours of the Parl. the army and Kingdome for an happy ſettlement, and likewiſe to pre<g ref="char:EOLhyphen"/>cipitate all into a new and bloody war, we cannot therefore but acquaint you that we look on this as a buſineſſe ſet on foot by the malice of ſome deſperate minded men, this being their laſt Engine for the putting all into confuſion, when they could not accompliſh their wicked ends by other meanes. To this have all ſecret liſtings tended, and we wiſh that the needleſſe and ſuperfluous Liſting of Auxilaries and connivance at the continuance of the Reformadoes about the Cities of London, and Weſtminſter, have not had the ſame aime, and by this wee hope it will appeare that our iealouſies and feares of ſome ſuch deſperate deſignes to be harched in and about the City, (conſidering the temper of men there) have not bin groundleſſe, nor our deſires to draw neere the City of Lon<g ref="char:EOLhyphen"/>don with the Army to diſapoint and breake all ſuch plots, and to free the Parliament from the violence of them have not bin without juſt cauſe, and wee deſire all indifferent men to judg whether our withdraw<g ref="char:EOLhyphen"/>ing from the City in obedience to the Parliaments command was for their and the Kingdomes ſecurity or not: we wonder that divers men did calumniate that our marching ſo neare the City, and put ſo bad Repreſentations upon it, as that it tended to force the Par<g ref="char:EOLhyphen"/>liament, or to plunder the City ſeeing our doing ſo, was to breake that blacke deſigne which now begins to ſhew it ſelfe in its colours,
+<pb facs="tcp:160396:3"/>whereas indeed our conſciences witnes with us, that our aymes were cleare &amp; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>neſt tending to reſtore the Parliament into its juſt liberty, which was much abated in the eyes of all the Kingdome, and no doubt by the Authors and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ntrivers of this new Covenant and engagement; ſome whereof have been ſo farre from aſſiſting to put the Reformadoes &amp; other dangerous per<g ref="char:EOLhyphen"/>ſons out of the Lines that now they are called to joyne in this conſpiracy: we intreate you to give the Parl. a full Repreſentation of theſe things, which that you may do; we have ſent you the Papers, together with ſuch informations as may give them an opportunity to diſcover the bottome of this buſineſſe, we were marching from <hi>London</hi> (when we received this In<g ref="char:EOLhyphen"/>formation) in obedience to the Parliament, and to give the City more con<g ref="char:EOLhyphen"/>tent, &amp; to ſtop the mouthes of ſlanderers; But if ſuch Deſignes, ſo diſtructive to the Parliament, and the worke in hand be ſuffered to go on, or that the Parliament be interrupted in the freedome of their debates and proceedings as we heare, within theſe few dayes they were, by thoſe that are invited to partake in this Conſideracy: we begg it of the Parliament, as they tender their own ſafety, the Peace of the Kingdome, and preventing of a ſecond Warre, as they would not have the Kingdome looſe the fruite and benefit of all the blood and treaſure that hath been ſpent in this cauſe, that they would not ſuffer their freedome and liberty to be indangered by ſuch deſignes as theſe, they having an Army which by the Bleſſing of God, in ſpight of all that theirs and the Kingdomes enemies can do, will ſtand and fall with them, and be found faithfull and obedient to them in all things, and as ready to relieve <hi>Ireland,</hi> when the Peace and rights of this Kingdome are ſeried: We write not this to deſire the Parliament to invite us to march up to them, we care not how great a diſtance we are from London, if it be the Parlia<g ref="char:EOLhyphen"/>ments pleaſure, and conſiſts with their ſecurity, and the breaking of thoſe combinations which are hatcht in the Bowels of the City, we are haſtening our Propoſalls which are for the generall ſettlement, and which (we are confident) will ſatisfie all that love truth and peace: But we ſee plainly, we neede more to intend ſecurity then have cauſe to expect to bring things to an happy iſſue by Treaty while ſuch deſignes are on foote: We pray you therefore that the Parliament would ſpeedily and throughly inquire in<g ref="char:EOLhyphen"/>to, and break theſe Deſignes wherein as in all things, elſe we ſhall be ready to ſerve them as they ſhall judge it needfull, and when they ſhall command us.</p>
+            <closer>
+               <signed>By the appointment of his Excellency Sir <hi>Thomas Fairfax,</hi> and his Councell of Warre. Signed, <hi>Iohn Ruſhworth,</hi> Secr.</signed>
+               <dateline>
+                  <hi>Alesbury</hi> 
+                  <date>
+                     <hi>July</hi> 23. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:160396:3"/>
+            <p>BY a Printed Paper come to our hands this day (a Coppie whereof you receive herewith) we ſtill find, and cleerly and evidently perceive that ſome evill Spirits within the City of London, maliciouſly diſaffected to the Peace of this Kingdome, do ſecretly and wickedly endeavour, to bring about that miſchiefe upon the Kingdome, which we have ſo much feared, and by all our ſeverall addreſſes unto you ſought to prevent; which indeede are of that dangerous conſequence as we can expect no other iſſue from, then the unavoydable engaging the Kingdome in a ſecond Warre, if not timely and effectually prevented by your wiſdome and diligence. Wee muſt further obſerve unto you, that whatoever deſign is intended in the for<g ref="char:EOLhyphen"/>ſſad Paper, is contrary to the Authority of Parliament, and indirect oppoſiti<g ref="char:EOLhyphen"/>on to the proceedings of the Army (which the 2. Houſes have owned as theirs, and approved of their fidelity by committing the forces of the King<g ref="char:EOLhyphen"/>dome of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Iſlands of <hi>Garneſey</hi> and <hi>Ierſey,</hi> under the Generals care and Command) and therefore cannot be effected, but by force of Armes againſt the Parliament and their Armies, which in probability may involve the whole Kingdome in blood; but muſt neceſſarily begin within your own Bowels, and draw the Seate and miſery of Warre upon you and your City.</p>
+            <p>Alſo we deſire you would conſider, whether we have not juſt cauſe to ſuſpect that an evill party lurkes within the City ready to diſtemper it, and the whole Kingdome upon every occaſion, and whether it be probable ſuch perſons deſire a happy Cloſe between the King and the Parliament, (at leaſt ſuch as will be for the Kingdomes good) when they take upon them the boldneſſe to make new offers to His Maj. with ſolemn engagements to make good the ſame during the time that the Parliament had given us leave to make tender of, and treate with their Commiſſioners about thoſe things which tend to a generall ſettlement. And therefore we cannot but deſire, that you would take a ſpeedy courſe timely to ſuppreſſe this great evill, and to prevent all of this nature for the future, and by making ſome of thoſe ex<g ref="char:EOLhyphen"/>amples who have been active to carry on this buſineſſe: We have not had time to enquire into particulars, out ſhall give you onely one inſtance of a meeting at <hi>Skinners-Hall,</hi> concerning this buſineſſe, where ſome perſons have been very active, (the names of ſome of whom we have given to your Com<g ref="char:EOLhyphen"/>miſſioners) and alſo the names of other Citizens who will teſtifie their carri<g ref="char:EOLhyphen"/>age there.</p>
+            <p>Laſtly, we cannot but deſire you to concur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with us in our deſires to the Parliament, to put the Militia into the hands of thoſe that had it before; without which we can have no aſſurance that the City will be free from de<g ref="char:EOLhyphen"/>ſignes of this nature, nor can we expect to ſee a happy Cloſe.</p>
+            <closer>
+               <signed>
+                  <hi>By the appointment of his Excellency Sir</hi> Thomas Fairfax <hi>and his Councell</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </signed>
+               <dateline>
+                  <hi>Alisbury</hi> 
+                  <date>
+                     <hi>July</hi> 23. <gap reason="illegible" resp="#PDCC" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap>.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:160396:4"/>
+            <head>To the Right Honourable the Lord Mayor, the right worſhipfull the Aldermen and Commons of the City of London in the Common or Guild-hall of the City of London, aſſembled.</head>
+            <head type="sub">The humble Petition of the Citizens, Commanders, Officers, and Soul<g ref="char:EOLhyphen"/>diers of the Trained Bands and Auxilaries, the young men, and Ap<g ref="char:EOLhyphen"/>prentices of the Cities of London, and Weſtminſter, Sea Commanders, Seamen and Watermen, together with divers other Commanders, Officers, and Souldiers within the Line of Communication, and Pari<g ref="char:EOLhyphen"/>ſhes, mentioned in the Weekly Bill of Mortality.</head>
+            <opener>Sheweth,</opener>
+            <p>THat your petitioners (taking into ſerious conſideration how Religion, his Maieſties honour and ſafetie, the priviledges of Parliament and liberties of the Subiects, are at preſent greatly endan<g ref="char:EOLhyphen"/>gered, and like to be deſtroyed, and alſo ſadly weighing with our ſelves, what meanes might likely prove the moſt effectuall, to procure a firme, and laſting peace, without a further effuſion of Chriſtian Engliſh bloud, have therefore entred into a ſolemne engagement, which is hereunto annexed, and do humbly and earneſtly deſire, that this whole City may joyne together by all lawfull and poſſible meanes, as one man, in harty endeavours for his Majeſties preſent comming up to his two houſes of Parliament, with honour, ſafety, and freedom, (and that without the neerer approach of the Army) there to con<g ref="char:EOLhyphen"/>firme ſuch things as he hath granted in his Meſſage of the 12th. of May laſt, in anſwer to the Propoſitions of both Kingdoms, and that by a perſonall Treaty with his two houſes of parliament, &amp; the Com<g ref="char:EOLhyphen"/>miſſioners of the Kingdom of <hi>Scotland,</hi> ſuch things as yet are in dif<g ref="char:EOLhyphen"/>ference may be ſpeedily iettled, and a firme, and laſting peace eſta<g ref="char:EOLhyphen"/>bliſhed; all which we deſire may be preſented to both houſes of parlia<g ref="char:EOLhyphen"/>ment from this honourable Aſſembly,</p>
+            <p>
+               <hi>And wee ſhall pray.</hi>
+            </p>
+         </div>
+         <div type="engagement">
+            <pb facs="tcp:160396:4"/>
+            <head>A Solemne ingagement, of the Citizens, Commanders Officers, and ſouldiers of the Trainbands, &amp; Auxiliaries, the yong men, and prentices of the Cities of London and Weſtminſter Sea Comanders, Seamen, and Watermen, together with divers others the Comanders, Officers and ſouldiers, within the lines of Com<g ref="char:EOLhyphen"/>munication, and Pariſhes mentioned in the Weekly Bill of Mortality.</head>
+            <p>WHereas wee have entered into a ſolemne League and Covenant, for Reformation and defence of Religion, the honour and hapy<g ref="char:EOLhyphen"/>neſſe of the King, and the peace and ſafety of the the 3 Kingdomes, of England, Scotland, and Ireland; All which wee doe eminently perceive not only to be indangered, but ready to be deſtroyed, we do therefore in purſuance of our ſaid Covenant, Oath of Allegiance, oath of every free<g ref="char:EOLhyphen"/>man of the Cities of London, and Weſtminſter, and proteſtation ſolemnly ingage our ſelves, and vow unto Almighty God, that we wil to the utmoſt of our power cordially indeavour that his Maieſty may ſpeedily come to his two houſes of Parliament, with honour, ſafety, and freedom, (and that without the neerer approach of the Army) there to confirme ſuch things as hee hath granted in his Meſſage of the 12 of May laſt, in anſwer to the Propoſitions of both Kingdomes, and that by a perſonall Treaty with his two houſes of Parliament, and the Com. of the Kingdome of Soctland, ſuch things as are yet in difference may be ſpeedily ſetled, &amp; a firm and laſting peace eſtabliſhed, for the effecting hereof we doe proteſt and reobleige our ſelves as in the preſence of God the ſearcher of all hearts, with our lives and fortunes, to indeavour what in us lies to preſerve and defend his Majeſties Royall Perſon, and authority, the pri<g ref="char:EOLhyphen"/>viledges of parliament, and liberty of the Subject in their full &amp; conſtant freedom, the Cities of London and Weſtminſter Lines of Communicati<g ref="char:EOLhyphen"/>on, and Pariſhes mentioned in the Weekely Bill of Mortality, and all others that ſhall adhere with us, to the ſaid Covenant, and oath of Allegiance, oath of every freeman of London, and Weſtmin<g ref="char:EOLhyphen"/>ſter, and Proteſtation, Nor ſhall Wee by any meanes admit ſuf<g ref="char:EOLhyphen"/>fer or endure any neutrality in this Common cauſe of God, the King, and Kingdome as we do expect the Bleſſing of Almighty God, whole help we crave, &amp; wholly devolve our ſelves upon in this our undertaking.</p>
+         </div>
+         <div type="order">
+            <pb facs="tcp:160396:5"/>
+            <p>
+               <hi>I</hi> Doe hereby require the chiefe Officer preſent with every Troop and Company, to make ſtrict inquiry what Cavaliers haue been liſted and entertained in their Troopes or Companies, ſince the Muſter preceding the laſt Muſter; And that all ſuch chiefe Officers ſhall preſently up<g ref="char:EOLhyphen"/>on ſuch enquiry as before, put forth of their Troopes or Companies of ſuch Cava<g ref="char:EOLhyphen"/>liers as they ſhall find in their troopes or Companies from ſuch Musters (as be<g ref="char:EOLhyphen"/>fore) And before they receive any pay upon this laſt Muster, they ſhall expunge the Names of all ſuch Cavaliers out of their Muſter Rolls, as they ſhall have put out of their Troopes or Companies. And if it ſhall hereafter appeare (that any chiefe Officer preſent with their Troope or Company) ſhall neglect to put forth, or caſhiere ſuch Cavaliers in manner as before, or receive any for the time to come upon proof thereof made, he ſhall be liable to a Councell of Warre, and be accordingly proceeded againſt.</p>
+            <closer>
+               <dateline>Given under my hand <date>the <hi>21.</hi> of July, <hi>1647.</hi>
+                  </date>
+               </dateline>
+               <signed>Thomas Fairefax,</signed>
+            </closer>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </body>
+   </text>
+</TEI>
